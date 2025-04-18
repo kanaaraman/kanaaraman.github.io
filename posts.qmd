@@ -1,0 +1,13 @@
+---
+title: "Posts"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+I am a researcher at RISE with a Ph.D. in Digital Signal Processing. With extensive experience in Agentic AI and end-to-end AI solutions, Dr. [Your Name] specializes in developing advanced, scalable systems that bridge the gap between research and real-world applications. Their work focuses on leveraging cutting-edge AI methodologies to deliver impactful solutions across diverse domains.
