@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "ramanhomepage"
+  title: "Welcom to my website"
   navbar:
     right:
       - posts.qmd
